@@ -1,0 +1,12 @@
+[submodule "codedript-client"]
+	path = codedript-client
+	url = https://github.com/CodeDript/codedript-client.git
+[submodule "codedript-infra"]
+	path = codedript-infra
+	url = https://github.com/CodeDript/codedript-infra.git
+[submodule "codedript-server"]
+	path = codedript-server
+	url = https://github.com/CodeDript/codedript-server.git
+[submodule "codedript-blockchain"]
+	path = codedript-blockchain
+	url = https://github.com/CodeDript/codedript-blockchain.git
