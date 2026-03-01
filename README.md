@@ -88,13 +88,7 @@ That's it — the system is up and running.
 
 ---
 
-## Customization
 
-If you want to modify any sub-module, build your own Docker images, and deploy your custom version, see the detailed guide:
-
-**[Instruction.md](Instruction.md)**
-
----
 
 ## Stopping the System
 
