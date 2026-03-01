@@ -4,7 +4,7 @@ CodeDript is a freelance platform built on blockchain technology. This repositor
 
 ---
 
-## Quick Start
+## Getting Started — Run the System in Minutes
 
 ### Prerequisites
 
