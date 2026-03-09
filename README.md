@@ -20,8 +20,8 @@ Make sure the following are installed on your machine before proceeding:
 Clone the root repo along with all sub-modules in one command:
 
 ```bash
-git clone --recursive https://github.com/CodeDript/codedript-system.git
-cd codedript-system
+git clone --recursive https://github.com/CodeDript/codedript-core.git
+cd codedript-core
 ```
 
 > The `--recursive` flag automatically clones all sub-modules (`codedript-client`, `codedript-server`, `codedript-blockchain`, `codedript-infra`).
